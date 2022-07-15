@@ -2,7 +2,7 @@
 Counting Point Mutations
 ID: HMM
 Number: 006
-URL: http://rosalind.info/problems/gc/ 
+URL: https://rosalind.info/problems/hamm/
 """
 
 
